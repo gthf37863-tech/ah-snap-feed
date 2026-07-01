@@ -1,0 +1,43 @@
+{
+ "updated": "2026-07-01",
+ "base": "USD",
+ "buffer": 1.04,
+ "rates": {
+  "CAD": {
+   "market": 1.4208,
+   "pegged": 1.4776,
+   "sym": "CA$",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "EUR": {
+   "market": 0.8766,
+   "pegged": 0.9117,
+   "sym": "€",
+   "rule": [
+    "d",
+    0.95
+   ]
+  },
+  "GBP": {
+   "market": 0.7549,
+   "pegged": 0.7851,
+   "sym": "£",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "AUD": {
+   "market": 1.4487,
+   "pegged": 1.5067,
+   "sym": "A$",
+   "rule": [
+    "d",
+    0.99
+   ]
+  }
+ }
+}
