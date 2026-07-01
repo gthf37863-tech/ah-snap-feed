@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01",
+ "updated": "2026-07-02",
  "base": "USD",
  "buffer": 1.04,
  "rates": {
@@ -37,6 +37,83 @@
    "rule": [
     "d",
     0.99
+   ]
+  },
+  "NZD": {
+   "market": 1.7633,
+   "pegged": 1.8338,
+   "sym": "NZ$",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "CHF": {
+   "market": 0.8086,
+   "pegged": 0.8409,
+   "sym": "CHF ",
+   "rule": [
+    "d",
+    0.9
+   ]
+  },
+  "SEK": {
+   "market": 9.7168,
+   "pegged": 10.1054,
+   "sym": "SEK ",
+   "rule": [
+    "w",
+    10,
+    1
+   ]
+  },
+  "NOK": {
+   "market": 9.9154,
+   "pegged": 10.312,
+   "sym": "NOK ",
+   "rule": [
+    "w",
+    10,
+    1
+   ]
+  },
+  "DKK": {
+   "market": 6.543,
+   "pegged": 6.8047,
+   "sym": "DKK ",
+   "rule": [
+    "w",
+    10,
+    1
+   ]
+  },
+  "PLN": {
+   "market": 3.766,
+   "pegged": 3.9166,
+   "sym": "zl ",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "CZK": {
+   "market": 21.261,
+   "pegged": 22.1115,
+   "sym": "Kc ",
+   "rule": [
+    "w",
+    10,
+    1
+   ]
+  },
+  "HUF": {
+   "market": 311.6957,
+   "pegged": 324.1635,
+   "sym": "Ft ",
+   "rule": [
+    "w",
+    100,
+    10
    ]
   }
  }
