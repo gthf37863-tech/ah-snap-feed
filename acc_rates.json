@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-02",
+ "updated": "2026-07-03",
  "base": "USD",
  "buffer": 1.04,
  "rates": {
   "CAD": {
-   "market": 1.4208,
-   "pegged": 1.4776,
+   "market": 1.4214,
+   "pegged": 1.4783,
    "sym": "CA$",
    "rule": [
     "d",
@@ -13,8 +13,8 @@
    ]
   },
   "EUR": {
-   "market": 0.8766,
-   "pegged": 0.9117,
+   "market": 0.8783,
+   "pegged": 0.9135,
    "sym": "€",
    "rule": [
     "d",
@@ -22,8 +22,8 @@
    ]
   },
   "GBP": {
-   "market": 0.7549,
-   "pegged": 0.7851,
+   "market": 0.7537,
+   "pegged": 0.7839,
    "sym": "£",
    "rule": [
     "d",
@@ -31,8 +31,8 @@
    ]
   },
   "AUD": {
-   "market": 1.4487,
-   "pegged": 1.5067,
+   "market": 1.451,
+   "pegged": 1.5091,
    "sym": "A$",
    "rule": [
     "d",
@@ -40,8 +40,8 @@
    ]
   },
   "NZD": {
-   "market": 1.7633,
-   "pegged": 1.8338,
+   "market": 1.7621,
+   "pegged": 1.8326,
    "sym": "NZ$",
    "rule": [
     "d",
@@ -49,8 +49,8 @@
    ]
   },
   "CHF": {
-   "market": 0.8086,
-   "pegged": 0.8409,
+   "market": 0.8096,
+   "pegged": 0.8419,
    "sym": "CHF ",
    "rule": [
     "d",
@@ -58,8 +58,8 @@
    ]
   },
   "SEK": {
-   "market": 9.7168,
-   "pegged": 10.1054,
+   "market": 9.7307,
+   "pegged": 10.12,
    "sym": "SEK ",
    "rule": [
     "w",
@@ -68,8 +68,8 @@
    ]
   },
   "NOK": {
-   "market": 9.9154,
-   "pegged": 10.312,
+   "market": 9.9158,
+   "pegged": 10.3125,
    "sym": "NOK ",
    "rule": [
     "w",
@@ -78,8 +78,8 @@
    ]
   },
   "DKK": {
-   "market": 6.543,
-   "pegged": 6.8047,
+   "market": 6.5558,
+   "pegged": 6.818,
    "sym": "DKK ",
    "rule": [
     "w",
@@ -88,8 +88,8 @@
    ]
   },
   "PLN": {
-   "market": 3.766,
-   "pegged": 3.9166,
+   "market": 3.771,
+   "pegged": 3.9219,
    "sym": "zl ",
    "rule": [
     "d",
@@ -97,8 +97,8 @@
    ]
   },
   "CZK": {
-   "market": 21.261,
-   "pegged": 22.1115,
+   "market": 21.2897,
+   "pegged": 22.1413,
    "sym": "Kc ",
    "rule": [
     "w",
@@ -107,13 +107,107 @@
    ]
   },
   "HUF": {
-   "market": 311.6957,
-   "pegged": 324.1635,
+   "market": 312.4062,
+   "pegged": 324.9025,
    "sym": "Ft ",
    "rule": [
     "w",
     100,
     10
+   ]
+  },
+  "RON": {
+   "market": 4.5934,
+   "pegged": 4.7772,
+   "sym": "lei ",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "JPY": {
+   "market": 162.5478,
+   "pegged": 169.0498,
+   "sym": "¥",
+   "rule": [
+    "w",
+    100,
+    20
+   ]
+  },
+  "KRW": {
+   "market": 1553.2365,
+   "pegged": 1615.366,
+   "sym": "₩",
+   "rule": [
+    "w",
+    1000,
+    100
+   ]
+  },
+  "TWD": {
+   "market": 31.9157,
+   "pegged": 33.1924,
+   "sym": "NT$",
+   "rule": [
+    "w",
+    10,
+    1
+   ]
+  },
+  "THB": {
+   "market": 33.3296,
+   "pegged": 34.6628,
+   "sym": "฿",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "MYR": {
+   "market": 4.0924,
+   "pegged": 4.2561,
+   "sym": "RM ",
+   "rule": [
+    "d",
+    0.9
+   ]
+  },
+  "SGD": {
+   "market": 1.2959,
+   "pegged": 1.3478,
+   "sym": "S$",
+   "rule": [
+    "d",
+    0.9
+   ]
+  },
+  "ILS": {
+   "market": 2.9834,
+   "pegged": 3.1027,
+   "sym": "₪",
+   "rule": [
+    "d",
+    0.9
+   ]
+  },
+  "SAR": {
+   "market": 3.75,
+   "pegged": 3.9,
+   "sym": "SAR ",
+   "rule": [
+    "d",
+    0.99
+   ]
+  },
+  "AED": {
+   "market": 3.6725,
+   "pegged": 3.8194,
+   "sym": "AED ",
+   "rule": [
+    "w",
+    10,
+    1
    ]
   }
  }
