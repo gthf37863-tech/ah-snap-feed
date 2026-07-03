@@ -27,7 +27,7 @@
 "reviews": "recensioni",
 "sold out": "esaurito",
 "quantity": "quantità",
-"checkout": "checkout",
+"checkout": "cassa",
 "continue shopping": "continua lo shopping",
 "summer sale ends tonight": "I saldi estivi terminano stasera",
 "the more you add, the more you save": "Più articoli aggiunge, più risparmia",
@@ -528,9 +528,9 @@
 "announcement_ppxp44": "annuncio_ppxp44",
 "bottom-center": "centro-inferiore",
 "footer-promotions": "promozioni-footer",
-"menu-1": "menu-1",
-"menu-2": "menu-2",
-"menu-3": "menu-3",
+"menu-1": "menù-1",
+"menu-2": "menù-2",
+"menu-3": "menù-3",
 "newsletter-popup": "popup-newsletter",
 "overlaid-box": "box-sovrapposto",
 "promotion-1": "promozione-1",
@@ -720,5 +720,7 @@
 "ordered the linen shirt for summer and it is exactly as described - proper quality and a fit that actually works. got compliments the first time out.": "Ho ordinato la camicia di lino per l'estate ed è esattamente come descritta - qualità adeguata e una vestibilità che funziona davvero. Ho ricevuto complimenti la prima volta che l'ho indossata.",
 "picked up a knit polo and a pair of trousers. both arrived fast and look even better in person than online.": "Ho preso un polo in maglia e un paio di pantaloni. Entrambi sono arrivati velocemente e dal vivo sono ancora meglio che online.",
 "the sweater is soft and true to size, and the loafers go with everything. easy from start to finish.": "Il maglione è morbido e della taglia giusta, e i mocassini si abbinano a tutto. Tutto facile dall'inizio alla fine.",
-"well-made, comfortable, and not covered in logos - exactly what i have been after. will be back.": "Ben fatto, comodo e senza loghi ovunque - esattamente quello che cercavo. Tornerò."
+"well-made, comfortable, and not covered in logos - exactly what i have been after. will be back.": "Ben fatto, comodo e senza loghi ovunque - esattamente quello che cercavo. Tornerò.",
+"men tops shirts": "uomo top camicie",
+"men tops shirts polo shirts t-shirts jumpers & sweaters cardigans hoodies & sweatshirts outerwear jackets coats & parkas blazers gilets & vests bottoms trousers jeans shorts joggers & cargo sets & co-ords shoes trainers & sneakers loafers boots sandals & slides dress shoes accessories watches sunglasses accessories suits underwear new in (men) best sellers (men)": "uomo top camicie polo t-shirt maglioni e pullover cardigan felpe con cappuccio e felpe soprabiti giacche cappotti e parka blazer gilet e panciotti fondo pantaloni jeans short jogger e cargo set e coordinati scarpe scarpe da ginnastica e sneakers mocassini stivali sandali e infradito scarpe eleganti accessori orologi occhiali da sole accessori abiti intimo novità (uomo) più venduti (uomo)"
 }
